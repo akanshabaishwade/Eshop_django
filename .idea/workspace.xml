@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45fc02f1-b19e-4a4a-a5b7-a79a6f055741" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Django_project02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django_project02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eshop/store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop/store/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eshop/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Eshop_django" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
