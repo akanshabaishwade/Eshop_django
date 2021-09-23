@@ -1,6 +1,7 @@
 # Chocolate Eshop
-A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
-
+- It is an online chocolate selling shop having all categories of chocolates, It is similar to
+shopping website like amazon, Flipkart. It is built in Django with help of SQL lite Database and HTML, CSS,
+Bootstrap for front end.
 ## Installation
 
 Python and Django need to be installed
